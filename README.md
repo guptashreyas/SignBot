@@ -84,7 +84,8 @@ SignBot addresses the communication barriers faced by individuals who use sign l
       -The YOLO model processes the input and predicts the recognized sign.
 
   3.Output:
-      -The prediction result is displayed on the Gradio interface, along with confidence scores.
+  
+   -The prediction result is displayed on the Gradio interface, along with confidence scores.
 ---
 
 ## Results
