@@ -69,7 +69,7 @@ SignBot addresses the communication barriers faced by individuals who use sign l
 
 ## Usage
 
-  1. Open the hosted SignBot on Hugging Face[SignBot](https://huggingface.co/spaces/shreyas001/ASL-Detector).
+  1. Open the hosted SignBot on Hugging Face [SignBot](https://huggingface.co/spaces/shreyas001/ASL-Detector).
   2. Upload an image or use the webcam to capture a sign.
   3. View the predicted result in real time
 
